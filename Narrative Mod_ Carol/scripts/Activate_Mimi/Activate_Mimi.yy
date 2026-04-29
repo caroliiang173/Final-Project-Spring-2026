@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Activate_Mimi",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Activate_Mimi",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

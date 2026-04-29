@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Activate_Butch",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Activate_Butch",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
