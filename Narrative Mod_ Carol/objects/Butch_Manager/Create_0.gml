@@ -1,1 +1,1 @@
-fall_speed = 10
+fall_speed = 35

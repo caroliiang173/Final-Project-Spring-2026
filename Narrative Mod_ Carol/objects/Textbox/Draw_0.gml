@@ -4,7 +4,7 @@ if(dialogue_count == 0)
 {
 	Activate_Butch()
 	ShowDialogue("Hey are you okay?")
-	audio_play_sound(Speak,1,0)
+	//audio_play_sound(Speak,1,0)
 	//timer += 1
 	
 	//if(timer == 10)
