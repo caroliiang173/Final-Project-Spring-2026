@@ -17,6 +17,7 @@ if(dialogue_count == 1)
 {
 	timer = 0;
 	Activate_Mimi()
+	Mimi.sprite_index = Spr_Mimi
 	ShowDialogue("Oh yeah sorry...")
 }
 
@@ -35,12 +36,14 @@ if(dialogue_count == 3)
 if(dialogue_count == 4)
 {
 	Activate_Mimi()
+	Mimi.sprite_index = Spr_Mimi_Shock
 ShowDialogue("Am I dreaming right now?")
 }
 
 if(dialogue_count == 5)
 {
 	Activate_Mimi()
+	Mimi.sprite_index = Spr_Mimi_Blink
 	ShowDialogue("(blinking)")
 }
 
@@ -53,6 +56,7 @@ if(dialogue_count == 6)
 if(dialogue_count == 7)
 {
 	Activate_Mimi()
+	Mimi.sprite_index = Spr_Mimi
 	ShowDialogue("Sorry what were you saying?")
 }
 
@@ -99,7 +103,7 @@ if(dialogue_count == 14)
 {
 	Activate_Butch()
 	ShowDialogue("My favorite one. I turned to get something from")
-	draw_text(x+20, y+70,"my bag and it was gone. Damn ball chains. . .")
+	draw_text(x+20, y+70,"my carabiner and it was gone. Damn ball chains.")
 }
 
 if(dialogue_count == 15)

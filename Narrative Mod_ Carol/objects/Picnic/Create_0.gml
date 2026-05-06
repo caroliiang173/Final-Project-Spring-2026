@@ -1,0 +1,1 @@
+audio_play_sound(ParkBGM,1,1)

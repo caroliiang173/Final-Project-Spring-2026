@@ -6,6 +6,7 @@ instance_deactivate_object(Textbox)
 instance_deactivate_object(Butch_Obj)
 instance_activate_object(Tree_Green)
 //Textbox.sprite_index = Spr_Empty
+//instance_deactivate_object(Audio_Play_Romantic)
 }
 
 if(Player_2.y < 400)

@@ -1,0 +1,1 @@
+//audio_play_sound(BG_Book,1,1)
