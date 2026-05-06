@@ -10,6 +10,9 @@ var released_down = keyboard_check_released(ord("S"));
 
 //left
 
+show_debug_message(total_spent)
+
+
 if(!place_meeting(x-move_speed,y,Collision_Main))
 {
 

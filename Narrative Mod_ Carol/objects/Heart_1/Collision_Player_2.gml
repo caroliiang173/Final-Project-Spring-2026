@@ -1,4 +1,4 @@
-if(keyboard_check(vk_space))
+if(keyboard_check(vk_space) && !Player_2.Gachi)
 {
 	Player_2.Green_Yuri= false;
 	Player_2.Company= false;

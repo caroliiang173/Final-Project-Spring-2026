@@ -16,6 +16,10 @@ book_price = 10.95
 
 next_to_npc = false
 
+Company_bought = false;
+Green_bought = false;
+Gachi_bought = false;
+
 
 global.counter = 0;
 

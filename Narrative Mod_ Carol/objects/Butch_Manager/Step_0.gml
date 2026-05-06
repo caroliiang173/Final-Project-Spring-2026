@@ -5,6 +5,7 @@ if(talking == false)
 instance_deactivate_object(Textbox)
 instance_deactivate_object(Butch_Obj)
 instance_activate_object(Tree_Green)
+//Textbox.sprite_index = Spr_Empty
 }
 
 if(Player_2.y < 400)

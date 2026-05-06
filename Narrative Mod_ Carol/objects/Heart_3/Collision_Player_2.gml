@@ -1,4 +1,4 @@
-if(keyboard_check(vk_space))
+if(keyboard_check(vk_space) && !Player_2.Company)
 {
 	global.counter = 0
 	Player_2.Gachi = false;

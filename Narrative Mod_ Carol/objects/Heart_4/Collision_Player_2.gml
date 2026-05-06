@@ -1,4 +1,4 @@
-if(keyboard_check(vk_space))
+if(keyboard_check(vk_space) && !Player_2.Cashier_Dialogue)
 {
 	global.counter2 = 0
 	Player_2.Gachi = false;

@@ -153,9 +153,9 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"Bookstore","path":"rooms/Bookstore/Bookstore.yy",},},
     {"roomId":{"name":"Title_Screen","path":"rooms/Title_Screen/Title_Screen.yy",},},
     {"roomId":{"name":"Ending","path":"rooms/Ending/Ending.yy",},},
-    {"roomId":{"name":"Bookstore","path":"rooms/Bookstore/Bookstore.yy",},},
     {"roomId":{"name":"Butch","path":"rooms/Butch/Butch.yy",},},
     {"roomId":{"name":"Game","path":"rooms/Game/Game.yy",},},
   ],
