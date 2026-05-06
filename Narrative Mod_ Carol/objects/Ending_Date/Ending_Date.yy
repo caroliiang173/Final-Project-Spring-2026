@@ -1,18 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"Chibi_Butch",
+  "%Name":"Ending_Date",
   "eventList":[],
   "managed":true,
-  "name":"Chibi_Butch",
+  "name":"Ending_Date",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
     "path":"folders/Objects.yy",
   },
-  "parentObjectId":{
-    "name":"Collision_Main",
-    "path":"objects/Collision_Main/Collision_Main.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_Butch_Chibi_White",
-    "path":"sprites/Spr_Butch_Chibi_White/Spr_Butch_Chibi_White.yy",
+    "name":"Sprite48",
+    "path":"sprites/Sprite48/Sprite48.yy",
   },
   "spriteMaskId":null,
   "visible":true,

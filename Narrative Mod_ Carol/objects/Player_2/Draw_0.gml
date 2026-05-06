@@ -67,6 +67,7 @@ if(global.counter == 15)
 ShowTextboxSmall("I guess I will...",x-30, y - 50,5,25, c_black)
 
 total_spent += book_price;
+global.counter +=1
 }
 
 }
@@ -109,21 +110,21 @@ ShowTextboxSmall("I need to find the keychain.",x-30, y - 50,5,25, c_black);//ms
 ShowTextboxSmall("But the limited merch...",x-30, y - 50,5,25, c_black);//msg, box_x, box_y, x_text,y_text
 }
 
-	if(global.counter == 6)
+	if(global.counter == 7)
 {
 ShowTextboxSmall("Should I buy?",x-30, y - 50,5,25, c_black);//msg, box_x, box_y, x_text,y_text
 }
-if(global.counter == 7)
+if(global.counter == 8)
 {
 ShowTextboxSmall("click 'N' or 'Y'",x-30, y - 50,5,25, c_black);//msg, box_x, box_y, x_text,y_text
 }
 
 if(keyboard_check_pressed(ord("N")))
 {
-	global.counter = 8
+	global.counter = 9
 }
 
-if(global.counter == 8)
+if(global.counter == 9)
 {
 ShowTextboxSmall("I guess I won't...",x-30, y - 50,5,25, c_black)
 }
@@ -139,6 +140,7 @@ if(global.counter == 15)
 ShowTextboxSmall("I guess I will...",x-30, y - 50,5,25, c_black)
 
 total_spent += 63.99;
+global.counter +=1
 }
 
 }
@@ -173,6 +175,7 @@ if(Company == true)
 	if(global.counter == 5)
 	{
 		total_spent += 15.95
+		global.counter +=1
 	}
 }
 
