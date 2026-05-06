@@ -6,10 +6,13 @@
   "name":"Gachi_Shelf",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Shelves_Group",
+    "path":"folders/Objects/Shelves_Group.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"Collision_Main",
+    "path":"objects/Collision_Main/Collision_Main.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

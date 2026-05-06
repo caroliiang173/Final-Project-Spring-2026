@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ShowTextbox_Small",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ShowTextbox_Small",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -6,8 +6,8 @@
   "name":"Tree",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"First_Phase",
+    "path":"folders/Objects/First_Phase.yy",
   },
   "parentObjectId":{
     "name":"Collision_Main",

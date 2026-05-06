@@ -108,3 +108,4 @@ if(instance_place(x, y -move_speed -10, Chibi_Butch))
 {
 	next_to_npc = true;
 }
+

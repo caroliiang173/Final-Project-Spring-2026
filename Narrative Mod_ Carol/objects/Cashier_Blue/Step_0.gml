@@ -1,0 +1,1 @@
+show_debug_message(Player_2.Cashier_Dialogue)

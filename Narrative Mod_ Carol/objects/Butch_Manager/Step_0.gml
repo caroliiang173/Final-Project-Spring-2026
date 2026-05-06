@@ -1,3 +1,5 @@
+instance_activate_object(Player_2)
+
 if(talking == false)
 {
 instance_deactivate_object(Textbox)
