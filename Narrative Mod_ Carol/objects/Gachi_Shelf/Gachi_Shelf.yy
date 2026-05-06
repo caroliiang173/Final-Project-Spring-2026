@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Butch_Obj",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"Gachi_Shelf",
+  "eventList":[],
   "managed":true,
-  "name":"Butch_Obj",
+  "name":"Gachi_Shelf",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_Butch_1",
-    "path":"sprites/Spr_Butch_1/Spr_Butch_1.yy",
+    "name":"Spr_Gachi",
+    "path":"sprites/Spr_Gachi/Spr_Gachi.yy",
   },
   "spriteMaskId":null,
   "visible":true,

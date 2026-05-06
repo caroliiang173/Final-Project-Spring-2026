@@ -86,7 +86,7 @@ if(dialogue_count == 12)
 	Activate_Butch()
 	ShowDialogue("Oh thanks. . . but I'm pretty sure both of us are") 
 	draw_text(x+20, y+70, "alive. Unless I got hit by a fucking car")
-	draw_text(x+20, y+ 120, "while looking for my keychain that fell off.")
+	draw_text(x+20, y+ 120, "while looking for the keychain I lost.")
 }
 
 if(dialogue_count == 13)
@@ -164,12 +164,13 @@ if(dialogue_count == 23)
  {
 	 sprite_index = Spr_Empty
 	 instance_deactivate_object(Mimi)
+	 room_goto(Bookstore)
 	 
-	 draw_set_colour(c_white)
-	 draw_set_font(Big_Font)
-	 draw_text(300,300,"Where to look?")
+	// draw_set_colour(c_white)
+	// draw_set_font(Big_Font)
+//draw_text(300,300,"Where to look?")
 	 
-	 instance_activate_object(Choose)
+	 //instance_activate_object(Choose)
  }
  
  else

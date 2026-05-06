@@ -83,3 +83,28 @@ if(released_down)
 	image_speed = false;
 	sprite_index = Spr_Front_Idle;
 }
+
+
+if(instance_place(x+move_speed +10, y, Chibi_Butch))
+
+{
+	next_to_npc = true;
+}
+
+if(instance_place(x-move_speed -10, y, Chibi_Butch))
+
+{
+	next_to_npc = true;
+}
+
+if(instance_place(x, y+ move_speed +10, Chibi_Butch))
+
+{
+	next_to_npc = true;
+}
+
+if(instance_place(x, y -move_speed -10, Chibi_Butch))
+
+{
+	next_to_npc = true;
+}

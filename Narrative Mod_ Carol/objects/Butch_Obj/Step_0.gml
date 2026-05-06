@@ -34,7 +34,7 @@ if(Textbox.dialogue_count == 18)
 	}
 }
 
-if(Textbox.dialogue_count >= 21 && Textbox.dialogue_count < 22)
+if(Textbox.dialogue_count > 18 && Textbox.dialogue_count >= 21 && Textbox.dialogue_count < 22)
 {
 	image_index = 0;
 	image_speed = 0
